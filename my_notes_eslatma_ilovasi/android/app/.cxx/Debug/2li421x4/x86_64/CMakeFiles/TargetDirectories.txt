@@ -1,0 +1,2 @@
+D:/flutter_tasks/MyNotesEslatmaIlovasi/my_notes_eslatma_ilovasi/android/app/.cxx/Debug/2li421x4/x86_64/CMakeFiles/edit_cache.dir
+D:/flutter_tasks/MyNotesEslatmaIlovasi/my_notes_eslatma_ilovasi/android/app/.cxx/Debug/2li421x4/x86_64/CMakeFiles/rebuild_cache.dir

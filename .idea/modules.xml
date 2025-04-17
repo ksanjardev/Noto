@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my_notes_eslatma_ilovasi/my_notes_eslatma_ilovasi.iml" filepath="$PROJECT_DIR$/my_notes_eslatma_ilovasi/my_notes_eslatma_ilovasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_notes_eslatma_ilovasi/android/my_notes_eslatma_ilovasi_android.iml" filepath="$PROJECT_DIR$/my_notes_eslatma_ilovasi/android/my_notes_eslatma_ilovasi_android.iml" />
+    </modules>
+  </component>
+</project>
