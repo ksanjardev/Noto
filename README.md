@@ -27,7 +27,8 @@ Users can:
 
 ---
 
-## 🎥 Demo
+## 🎥 Video presentation
+
 ![Video presentation](note_video.gif)  
 
 ---
