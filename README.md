@@ -28,7 +28,7 @@ Users can:
 ---
 
 ## 🎥 Demo
-![Demo GIF](path_to_your_gif.gif)  
+![Video presentation](note_video.gif)  
 
 ---
 
