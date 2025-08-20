@@ -38,7 +38,7 @@ Users can:
 ---
 
 ## 📱 Download
-👉 [Download APK](aaa)  
+👉 [Download APK]([aaa](https://github.com/ksanjardev/Noto/raw/master/app-armeabi-v7a-release.apk))  
 
 ---
 
