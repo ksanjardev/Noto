@@ -51,7 +51,7 @@ Users can:
 ---
 
 ## 🏁 Getting Started
-1. Clone the repository: `git clone <repo-url>`  
+1. Clone the repository: `git clone https://github.com/ksanjardev/Noto.git`  
 2. Install dependencies: `flutter pub get`  
 3. Configure Firebase using `flutterfire_cli` for your project  
 4. Run the app: `flutter run`  
