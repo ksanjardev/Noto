@@ -33,12 +33,12 @@ Users can:
 ---
 
 ## 🖼️ Screenshots
-<img src="path_to_image1.png" width="250"/> <img src="path_to_image2.png" width="250"/>  
+<img src="note_login.jpg" width="250"/> <img src="note_home.jpg" width="250"/> <img src="note_edit.jpg" width="250"/>  
 
 ---
 
 ## 📱 Download
-👉 [Download APK](path_to_your_apk.apk)  
+👉 [Download APK](aaa)  
 
 ---
 
