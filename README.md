@@ -1,6 +1,6 @@
 # 📝 Noto - Your Thoughts Within  
 
-Noto is a Flutter app built for writing and organizing notes with **Firebase integration** (via `flutterfire_cli`) and advanced **text formatting** powered by `flutter_quill: ^11.2.0`.  
+Noto is a Flutter app built for writing and organizing notes with **Firebase integration** and advanced **text formatting**.  
 Users can:  
 - Create, edit, and delete notes (CRUD)  
 - Add **titles** and **descriptions**  
